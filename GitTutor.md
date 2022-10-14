@@ -55,6 +55,8 @@ numbers[size - 1] = max
 print(numbers)
 ```
 
+![img](Python.jpg)
+
 ---
 ### Email
 ---
