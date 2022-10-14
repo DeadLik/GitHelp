@@ -55,3 +55,8 @@ numbers[size - 1] = max
 print(numbers)
 ```
 
+---
+### Email
+---
+* Для связи с нами пишите на e-mail
+    * moguvse@gogol.ru
