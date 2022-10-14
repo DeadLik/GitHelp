@@ -6,10 +6,10 @@ Git распределённая система управления верси�
 
 ---
 ### Menu
-1. Git command
-2. Quotes
-3. Code
-4. Email
+1. [Git command](#git-command)
+2. [Quotes](#quotes)
+3. [Code](#code)
+4. [Email](#email)
 
 ---
 ### Git command
