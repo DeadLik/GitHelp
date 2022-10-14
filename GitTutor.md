@@ -59,4 +59,4 @@ print(numbers)
 ### Email
 ---
 * Для связи с нами пишите на e-mail
-    * moguvse@gogol.ru
+    * [могу все что хочу](https://mail.ru/)
