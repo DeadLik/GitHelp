@@ -56,6 +56,20 @@ numbers[size - 1] = max
 print(numbers)
 ```
 
+```
+def capitalize(String):
+    return String.title()
+capitalize("shop")
+capitalize("python programming")
+capitalize("how are you!")
+```
+
+```
+n=5
+string="Hello World "
+print(string * n)
+```
+
 ![img](Python.jpg)
 
 ---
