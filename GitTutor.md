@@ -90,3 +90,5 @@ print(string * n)
 ---
 * Для связи с нами пишите на e-mail
     * [могу все что хочу](https://mail.ru/)
+    * [не могу все что хочу](https://yandex.ru/)
+    * [а вдруг](https://google.ru/)
